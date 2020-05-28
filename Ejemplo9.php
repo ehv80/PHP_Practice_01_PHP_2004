@@ -39,6 +39,5 @@
 </html>
 <?php
 	// Imprimo los datos ingresados previamente en negrita
-	echo "Su nombre es: <b>$nombre</b> y su dirección de e-mail es:
-	<b>$e_mail</b>";
+	echo "Su nombre es: <b>$nombre</b> y su dirección de e-mail es: <b>$e_mail</b>";
 ?>
