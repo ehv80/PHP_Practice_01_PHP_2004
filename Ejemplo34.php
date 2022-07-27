@@ -1,4 +1,4 @@
-<?php 
+
 /* 
  * Archivo / @File : Ejemplo34.php
  *
